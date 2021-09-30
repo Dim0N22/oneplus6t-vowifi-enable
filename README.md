@@ -2,7 +2,8 @@
 Enabling VoLTE + VoWiFi on OnePlus 6T for Freedom Mobile:
 
 1. Install [Qualcomm USB Driver](https://github.com/Dim0N22/oneplus6t-vowifi-enable/blob/main/QUD.WIN.1.1%20Installer-10037.3%20Setup.exe?raw=true)
-2. Install [QPST](https://github.com/Dim0N22/oneplus6t-vowifi-enable/blob/main/QPST_2.7.474.7z?raw=true)
+2. Install [OnePlus USB Driver](https://github.com/Dim0N22/oneplus6t-vowifi-enable/blob/main/OnePlus_USB_Drivers_Setup.exe?raw=true)
+3. Install [QPST](https://github.com/Dim0N22/oneplus6t-vowifi-enable/blob/main/QPST_2.7.474.7z?raw=true)
 5. Enable usb debugging on the phone
 6. `adb reboot ftm`
 7. `adb shell`
